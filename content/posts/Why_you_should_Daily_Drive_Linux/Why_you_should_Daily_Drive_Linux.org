@@ -1,0 +1,184 @@
+#+title: Why You Should Daily Drive Linux
+#+DATE: 2024-04-20
+#+DRAFT: false
+#+slug: article
+#+DESCRIPTION: A deep dive into the computing rabbit hole
+#+TAGS[]: Technology
+#+KEYWORDS: Technology Linux Guide
+#+IMAGES[]: /posts/Why_you_should_Daily_Drive_Linux/debian.jpg
+
+
+- [[#what-is-linux-and-why-is-it-a-big-deal][What is Linux and why is it a big deal]]
+- [[#my-progression-through-linux][My progression through Linux]]
+- [[#the-benefits-of-using-linux][The benefits of using Linux]]
+- [[#some-of-the-drawbacks][Some of the drawbacks]]
+- [[#best-way-to-get-started][Best way to get started]]
+
+
+#+HTML: <a id="what-is-linux-and-why-is-it-a-big-deal"></a>
+* What is Linux and why is it a big deal
+Linux is the operating system that runs the world! It is a critical part of the internet, being the go to choice for the servers providing you this website. Despite Linux dominating the server scene, a very small number of people actually run Linux as their day to day working machine[fn:1]. The main operating systems people use are Apple OS X and Microsoft Windows. Which despite being the most popular have many flaws such as forcing you into their expensive ecosystem of licenced software, spying on your software usage and deliberately slowing your computer down over time. Anyone who has owned an iPhone knows the pain of their phone conveniently slowing down when a new model is released.
+
+
+#+ATTR_HTML: :alt Linux Desktop Usage increasing slowly across time :title Desktop Linux Usage Over Time
+[[/posts/Why_you_should_Daily_Drive_Linux/DesktopPlot.jpg]]
+
+Linux does things differently. You take control of your own device and you can fully customise and tinker every part. A company cannot force their bloated software on you. Because Microsoft and Apple hide their code from the public we have no idea what our applications are doing in the background, they could be spying on our usage and selling our data. This is not a problem when embracing Linux.
+
+Linux is free and is built around open source principles. You can go online and look at the code that your computer is running and see exactly how it is working. Once you are exposed to this idea it is hard to use anything else. No more paying subscription fees to access slow software that provides basic functionality.
+
+So why doesn't everyone use it? Linux does have a learning curve but if you are technically minded this is one of the best things to invest in. The ability to tinker with your system will teach you so much about how software and your computer actually works. You will feel like a super user  being able to command your computer to do anything you want it to do.
+
+
+#+HTML: <a id="my-progression-through-linux"></a>
+* My progression through Linux
+My first contact with Linux was in 2013 when my dad put a version of Ubuntu on an old laptop. It was a good system but connecting it to our printer was such a headache that we stopped using it for work. I picked it up again 3 years ago whilst I was at university, a few professors ran Linux for coding projects which made me want to give it a go. I started by putting a Debian distribution on a virtual machine just to play around with it. I enjoyed setting it up but the slowness of the virtual machine made doing any actual work on it very painful.
+#+ATTR_HTML: :alt Screen displaying Debian OS :title Simple Linux Setup
+[[/posts/Why_you_should_Daily_Drive_Linux/debian.jpg]]
+#+HTML: <span class="caption">◎ A simple Linux setup using the Debian distribution</span>
+
+
+I decided to do my class coding project on a Raspberry Pi running Arch Linux. This was really a baptism of fire and after hours and hours of work I managed to get the system booted and was presented with a blank terminal! I didn't have the knowledge to connect it to WiFi and I spent so much time trouble shooting problems that I didn't get any work done.
+
+Manjaro was a recommended "just works" disto and was an Arch based system. I ran it with the i3 window manager which was brilliant as it allowed me to get stuff done with everything working out the box. When I got the chance I would spend my time customising the system. I used this setup for 6 months, this is where I learned about Vim, Emacs and keyboard driven workflow.
+
+
+
+After this I felt confident enough to put Manjaro on my laptop. This was my setup for around a year until I broke the system by accidentally deleting my home directory! Now I am currently running Arch Linux with the Xmonad window manager and have an effective keyboard driven setup. When I break my system or I get bored I will probably try out NixOS with Wayland, even if I don't end up switching I will learn lots from setting them up.
+
+
+
+
+#+HTML: <a id="the-benefits-of-using-linux"></a>
+* The benefits of using Linux
+
+So what are the killer features of Linux? First you own your system, no corporation can force software on you. Linux encourages the use of FOSS (Free Open Source Software) applications where anyone can look and audit the code. If you want you can check exactly how a piece of software is built meaning you can trust the applications that are running aren't spying on you or selling your data.
+
+You can build super lightweight systems. By only running software you need Linux can give new life to old laptops. Running Firefox on Windows would have my laptop fans maxing out but on Linux we get small CPU usage.
+
+Package managers make downloading software so easy. You simply use the command line to access the huge repository of pre-built software. No more worrying about getting a virus downloading software from a dodgy website.
+
+In Linux you can choose when you do your updates. In Windows I feel like they know the worst possible time to do a 30 minute update. I literally paid for this laptop and you are telling me how I should use it!
+
+Tiling window managers with Vim like applications  allow you to zip around your computer without ever having to use your mouse. I hardly ever have to touch my mouse now. This saves me so much time and navigating windows and applications is so instinctive that it allows me to focus more on my work.
+#+ATTR_HTML: :alt Screenshot of my current Linux setup :title My Linux setup
+[[/posts/Why_you_should_Daily_Drive_Linux/mysystem.jpg]]
+#+HTML: <span class="caption">◎ A screenshot of my current Linux setup using Xmonad tiling window manager</span>
+
+
+
+
+#+HTML: <a id="some-of-the-drawbacks"></a>
+* Some of the drawbacks
+With more freedom comes more responsibility! Learning Linux takes time and it sometimes feels like you are overwhelmed with the amount of things you have to know. But the more times you have to fix your system the faster you can solve future breaking!
+
+You are the one making sure that your system runs safe. Updating frequently and ensuring you have good backups are a must. The systems I have run have been pretty reliable to date. Any big problems have been solved with a quick search online.
+
+Some software might not be easily accessible in Linux. Especially people who run the Adobe suite and gamers might have some trouble. There are work around such as WINE or dual booting however the experience of these apps in Linux might be worse.
+
+#+ATTR_HTML: :alt Screen displaying code :title Fixing the system
+[[/posts/Why_you_should_Daily_Drive_Linux/coding.jpg]]
+#+HTML: <span class="caption">◎ Customising a Linux setup </span>
+
+
+
+#+HTML: <a id="best-way-to-get-started"></a>
+* Best way to get started
+
+In my opinion the best way to start is to boot Linux on a virtual machine. This will help you with the install process before you touch bare metal. Maybe try and do a project on an old laptop or Raspberry PI to gain confidence before using it for your daily work. Some people recommend dual booting however I say just take the dive into using Linux full time, you will get more out of it this way.
+
+There are plenty of tutorials online from DistroTube and Chris Titus Tech which have helped me through my Linux journey. I would recommend just using a beginner friendly distro like Mint or Manjaro to start with. In time you will learn that essentially all distros are the same but some come with more things working out the box. I would recommend tinkering as much as you can and watch YouTube for help and inspiration.
+
+
+
+
+
+# * Draft statistics
+# :LOGBOOK              :
+# - Note taken on [2024-04-18 Thu 23:26] \\
+#   Did a review and worked on formatting blog, added all the photos amost ready to publish
+# CLOCK: [2024-04-18 Thu 20:50]--[2024-04-19 Fri 01:25] =>  4:35
+# - Note taken on [2024-04-16 Tue 21:21] \\
+#   Working on getting images working and sorting out the formatting of org and hugo together, Should find where images go next, add images then proof read and tinker with settings
+# CLOCK: [2024-04-16 Tue 20:16]--[2024-04-16 Tue 21:21] =>  1:05
+# - Note taken on [2024-04-14 Sun 18:35] \\
+#   Finished first overview and playing with formatting
+# CLOCK: [2024-04-14 Sun 17:19]--[2024-04-14 Sun 18:35] =>  1:16
+# - Note taken on [2024-04-12 Fri 19:40] \\
+#   Proof reading and editing the first 3 chapters
+# CLOCK: [2024-04-12 Fri 18:51]--[2024-04-12 Fri 19:39] =>  0:48
+# - Note taken on [2024-04-08 Mon 15:54] \\
+#   Finished the what is linux section finishing the first draft, we should now edit
+# CLOCK: [2024-04-08 Mon 15:40]--[2024-04-08 Mon 15:53] =>  0:13
+# - Note taken on [2024-03-02 Sat 15:19] \\
+#   Working on the benefits of using linux, rearanging about how I will want to present this info and did a first draft of it
+# CLOCK: [2024-03-02 Sat 14:51]--[2024-03-02 Sat 15:18] =>  0:27
+# - Note taken on [2024-02-27 Tue 21:29] \\
+#   Rearanged the notes and wrote a first draft for how I started using linux
+# CLOCK: [2024-02-27 Tue 20:52]--[2024-02-27 Tue 21:28] =>  0:36
+# - Note taken on [2024-02-25 Sun 16:06] \\
+#   Converting raw mind dump into notes to organise and improve
+# CLOCK: [2024-02-25 Sun 15:43]--[2024-02-25 Sun 16:05] =>  0:22
+# :END:
+# #+BEGIN: clocktable :scope subtree :maxlevel 2
+# #+CAPTION: Clock summary at [2024-04-18 Thu 23:26]
+# | Headline         | Time |
+# |------------------+------|
+# | *Total time*       | *9:22* |
+# |------------------+------|
+# | Draft statistics | 9:22 |
+# #+END:
+
+
+
+# # #we can use code images and footnotes to make things clearer
+
+# # Example image
+# # #+ATTR_HTML: :width 50% :height 100% :alt Description of the image :title Image title
+# # [[/posts/Why_you_should_Daily_Drive_Linux/test.jpg]]
+# # #+HTML: <span class="caption">◎ This is where I would do caption</span>
+
+
+# # #+begin_src python
+# # This is python code
+# # #+end_src
+
+# # #+BEGIN_CENTER
+# # #+begin_quote
+# # This is a quote although im not sure why this isnt redeering
+# # #+end_quote
+# # #+END_CENTER
+
+# # # like the stats from this guy https://loganmarchione.com/about
+
+[fn:1] Data Sourced:  https://gs.statcounter.com/os-market-share/desktop/
+
+#+begin_src python :python /home/roberts/Documents/hugo/blog/venv/bin/python :results output
+# Python code for generating plot
+import matplotlib.pyplot as plt
+import pandas as pd
+from matplotlib.ticker import FuncFormatter
+
+df = pd.read_csv("os_combined-ww-monthly-200901-202403.csv")
+linux = df["Linux"]
+date = df["Date"]
+
+fig = plt.figure(linewidth=1,edgecolor="white",figsize=[7,3])
+ax = fig.add_axes((0.12,0.11,0.85,0.75))
+
+plt.plot(date,linux, label = "Linux")
+
+def percentage_formatter(x, pos):
+    return '{:.1%}'.format(x/100)
+
+ax = plt.gca()
+ax.yaxis.set_major_formatter(FuncFormatter(percentage_formatter))
+ax.xaxis.set_major_locator(plt.MultipleLocator(24))
+
+plt.ylabel("Percent Market Share",fontdict={'fontsize': 14, 'fontweight': 'normal', 'fontfamily': 'TIMES NEW ROMAN'})
+plt.title("Desktop Linux Usage Over Time", fontdict={'fontsize': 16, 'fontweight': 'normal', 'fontfamily': 'TIMES NEW ROMAN'})
+plt.legend(prop={'size': 12, 'weight': 'normal', 'family': 'TIMES NEW ROMAN'})
+
+plt.savefig("DesktopPlot.jpg",dpi=700)
+
+#+end_src

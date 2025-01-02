@@ -1,0 +1,77 @@
+#+title: The Beginnings of a Network State
+#+DATE: 2024-12-27
+#+DRAFT: false
+#+slug: beginnings_of_a_network_state
+#+DESCRIPTION: Living 3 Months in a Ghost City
+#+TAGS[]: Travel Technology
+#+KEYWORDS: Travel Network States NS
+#+IMAGES[]: /posts/Network_School_V1/FC.jpg
+
+
+
+* Change the State like Bitcoin Changed Finance
+
+
+Two years ago, I stumbled into the fascinating world of Network States through an epic eight hour podcast between Lex Fridman and Balaji Srinivasan ([[https://www.youtube.com/watch?v=VeH7qKZr0WI][Watch Here]]). It was the highest signal to noise conversation I’d ever heard, and it sparked something in me. Inspired, I read the [[https://thenetworkstate.com/][book]] and booked a trip to the first ever Network State Conference in Amsterdam in 2023. It was an eclectic gathering of builders and thinkers exploring the intersection of technology and geopolitics.
+
+#+ATTR_HTML: :alt My photo of the Network State Conference :title NS Conference - Singapore 2024
+[[/posts/Network_School_V1/conf.jpg]]
+#+HTML: <span class="caption">◎ Network State Conference - Singapore 2024</span>
+
+When I heard about a follow up "Network School" happening in 2024, I jumped at the opportunity despite only having a month’s notice and no concrete details. Something about the boldness of the idea intrigued me, and I wasn’t the only one.
+
+* The Ghost City
+
+#+ATTR_HTML: :alt My photo of the Forest City :title NS Forest City 2024
+[[/posts/Network_School_V1/FC.jpg]]
+#+HTML: <span class="caption">◎ Forest City - Malaysia 2024</span>
+
+That’s how I found myself, along with 150 others, in Forest City, a futuristic solar punk ghost city in Malaysia. None of us knew exactly what to expect, but if it was anything like the conference, it would be transformative.
+
+Guided by the maxim, “Institutions made before the internet won’t survive the internet” we set out to trial the first Node of a Network State. The goal, to reimagine society with an internet first mindset, leveraging technology and cryptocurrency, with a focus on health, longevity and community.
+
+* A Melting Pot of Ideas and Personalities
+
+For me, the true highlight was the people. There’s something special about individuals who drop everything to join an untested venture like this. Serendipitous conversations were the norm, with participants hailing from 60+ countries. This wasn’t just a tech accelerator; it was a melting pot of creativity. Artists, musicians, authors, content creators, and technologists all intelligent and high agency came together to experiment and collaborate.
+
+
+I used my time at the school to deepen my blockchain developer skills and explore side projects related to longevity. The environment was perfect for collaboration and exploration, with opportunities around every corner.
+
+* Health, Longevity, and /dd
+
+Health and longevity were integral parts of the experience. With daily access to an expansive gym and nutritious catered meals, staying fit became routine. Gym attendance was gamified with “BURN NFTs” rewarding consistency. Collectively, we burned over half a million calories! I personally worked out every day for the 90 days (minus one small hiccup when I forgot to scan my attendance!).
+
+#+ATTR_HTML: :alt BURN NFT Streak :title My NFT Leaderbaord
+[[/posts/Network_School_V1/NFT.png]]
+#+HTML: <span class="caption">◎ My "BURN" NFT Statistics</span>
+
+This focus on health extended to sleep and nutrition. After a lecture by Bryan Johnson and his [[https://protocol.bryanjohnson.com/][Blueprint Protocol]], I became obsessed with longevity and his “Don’t Die” philosophy. Tracking my health metrics I created a numerical snapshot of my body at 23. The emphasis on quality sleep was game changing, it revolutionized my productivity and creativity and made me feel amazing.
+
+
+* A Community of Learning and Adventure
+
+We had a fantastic array of guest lecturers like Vitalik Buterin and Kevin Aluwi. The community also organized a wide range of events sharing expertise with standout talks on topics like VR headsets, DeFi and zero-knowledge proofs. A personal highlight for me was participating in the Singapore Marathon relay. With just seven weeks of training, a group of 25 of us tackled the marathon. It was a fantastic community building event.
+
+
+#+ATTR_HTML: :alt A group photo at the Marathon finish line :title Group Photo as Finish line
+[[/posts/Network_School_V1/marathon.jpg]]
+#+HTML: <span class="caption">◎ Singapore Marathon Finish Line </span>
+
+
+
+* From URL to IRL
+The experience proved that a 150-person “pop-up city” can work especially when populated by people aligned with a shared mission. It felt like an antidote to the individualistic isolation of modern internet culture, fostering a community from the cloud to physical land.
+
+The next iteration aims to scale to 1,000 people and beyond. While this will undoubtedly bring new challenges, it also offers exciting opportunities. If successful, it could be a significant step toward a new kind of society centered on tech, health, and community.
+
+I’m excited to return and see how this project evolves. More importantly, I hope it inspires others to explore similar ventures. This just might be the future of living.
+
+
+
+# Need to make sure that the images are in the form of the public posts folder, before loading into linked in to get the correct org preview,
+# post on:
+# 1) linkedin
+# 2) Facebook
+# 3) Instagram Stories + send to FB
+# 4) Whattsapp (parents)
+# 5) Twitter

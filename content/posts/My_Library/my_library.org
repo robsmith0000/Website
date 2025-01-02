@@ -1,0 +1,198 @@
+#+title: My Library (draft)
+#+DATE: 2024-04-26
+#+DRAFT: true
+#+slug: article
+#+DESCRIPTION: List of books I have read and some thoughts
+
+* TOC :TOC:
+- [[#library][Library]]
+  - [[#steal-like-an-artist-austin-kleon][Steal Like an Artist (Austin Kleon)]]
+  - [[#show-your-work-austin-kleon][Show Your Work! (Austin Kleon)]]
+  - [[#never-eat-alone-keith-ferrazzi][Never Eat Alone (Keith Ferrazzi)]]
+  - [[#never-split-the-difference-chris-voss][Never Split the Difference (Chris Voss)]]
+- [[#nassim-taleb][Nassim taleb]]
+- [[#naval][Naval]]
+- [[#draft-statistics][Draft Statistics]]
+
+* Library
+
+Having a book shelf page on my blog to show what I am reading or books I recommend Is great
+
+** Steal Like an Artist (Austin Kleon)
+=Summary=
+
+Basically to copy other peoples voice and start creating, try and copy things you enjoy, creativity is not isolated from other people we all have influences
+Go and make things good, make the things that you would want to consume by copying what other peopel in the space are doign. Join communities and contribute to them. And build things for peopel you admire.
+
+- Make a list of videos and content I enjoy and copy the style to find a voice
+- Write the story you want to read, what content do I find useful and like consuming (dont feel bad doing it)
+- Go and Make stuff, just be creative and but it out on internet
+- Dont think about the money etc just do it because you enjoy working on it
+- You must do good work for people to care that is the most important thing, then you need to sort out the distribution
+- Connect with people in the same space as them and share things with them
+- Make notes about what you enjoy or find cool
+- Try and build something for people you admire
+- Its okay to have a boring job to be creative in your other work
+- Find a job that pays decently and gives you enough spare time to do what you want, these remote jobs are pretty cool
+- What would I watch and then make that, what value can I bring to the world
+
+** Show Your Work! (Austin Kleon)
+=Summary=
+
+Everyday provide value by sharing ideas and knowledge or process fo the thing you are wokring on, docuemnt your learning.
+Provide value, and contribute to communities, daily dispatch of what you are working ones
+is this helpful or eintertaining and what audience am I going for
+learn how to write speak and negotiatie
+
+
+- Build sharing into your routine book list and share ideas with people
+- Share knowledge and ideas
+- Start providing value to communities
+- What I am trying to learn and learn it infront of others
+- Talk about what you love and contribute to communities
+- Share our process
+- People want to see what you have build
+- Document what you are working on and review
+- Put yourself and your work out every day
+- This is a daily dispatch, just work on what you are doing, try and do it daily
+- Tweet about the process I am doing
+- Ask before you share, is this helpful or entertaining and what audience am I going for
+- Work on what you are doing and docuement it daily
+- Learn how to tell good stories, good looks and thumbnail then good story telling
+- Still need to learn how to speak and write, and negotiate
+- Maybe get a coach
+- You have to be a fan first and contribute and interact with people in communities
+- You dont need a massive following just people who care and are engaged
+- Instagram makes me compare so much, harness the interet more for connecting with people
+- Emails allow you to send out to people directly with what you are doign, mailing lists are super powerful ~balaji TNS find~
+- Emails and comments and get work onto other blogging sites etc
+- Look for something to learn when you find it dedicate yourself to learning it out in the open
+
+
+
+** Never Eat Alone (Keith Ferrazzi)
+Share things with people and dont expect things in return, =prep before networking= introduce peopel to other people and host events irl, meals etc
+Meet up with people when you visit cities.
+
+
+- I feel like at the moment I have connects but could do better, at uni I think those coffee things were really good for keeping connections with people and gaining ideas etc.
+- Just give and try to help others, give out value without expecting immdiate returns, do this like twitter and in real life, help people with the opportunities
+- Personal brand, by putting ones self out into the world
+- When going to networking events what is my objective, research before hand, ask open ended questions, share value with them
+- Follow up with people that you think are doing good things, makes a good impression
+- Introducing contacts together is so important in order to build good relationships, what bill from sosv was talking about. Hosting web 3 events or doing dinner parties eating together is so important
+- How can we translate this into the online world
+
+This is how to build a professional network of people
+look into building social media and setting up personal CRM
+just try out monica
+
+
+*** Key Concepts from "Never Eat Alone" by Keith Ferrazzi
+1. **Build Genuine Relationships**: Networking is about creating genuine connections rather than collecting business cards. Focus on establishing real, authentic relationships.
+
+2. **Generosity**: Approach networking with a mindset of generosity. Help others without expecting immediate returns. Provide value, whether through advice, introductions, or support.
+
+3. **Follow-Up**: Maintain and nurture relationships by regularly following up with contacts. This can be through simple check-ins, sharing relevant information, or offering assistance.
+
+4. **Be Proactive**: Don’t wait for networking opportunities to come to you. Take initiative in reaching out to people and creating opportunities to connect.
+
+5. **Leverage Existing Networks**: Use your current network to expand your connections. Ask friends, colleagues, and acquaintances to introduce you to others.
+
+6. **The Power of Social Events**: Attend social events, conferences, and gatherings where you can meet new people. Make a habit of never eating alone by scheduling meals with others.
+
+7. **Build a Personal Brand**: Develop a strong personal brand that reflects your values, expertise, and personality. This helps others understand who you are and what you stand for.
+
+8. **Reciprocity**: Create a cycle of giving and receiving. When you help others, they are more likely to help you in return. This builds a network based on mutual support.
+
+9. **Be Persistent and Patient**: Building a strong network takes time and consistent effort. Be patient and persistent in your efforts to connect and build relationships.
+
+10. **Use Technology**: Utilize technology and social media to stay connected with your network. Platforms like LinkedIn, Twitter, and Facebook can help you maintain and grow your professional relationships.
+
+11. **Practice Active Listening**: Show genuine interest in others by listening actively. Understand their needs, goals, and challenges, and see how you can assist them.
+
+12. **Personalize Your Approach**: Tailor your communication and approach to each individual. Personalization shows that you value the person and are genuinely interested in them.
+
+13. **Set Goals**: Set clear, actionable networking goals. Know what you want to achieve through your networking efforts and create a plan to reach those goals.
+
+14. **Be Authentic**: Authenticity is crucial in building trust and meaningful relationships. Be yourself and stay true to your values and principles.
+
+15. **Continuous Learning**: Keep learning and improving your networking skills. Read books, attend workshops, and seek feedback to become a better networker.
+
+By applying these concepts, "Never Eat Alone" aims to help readers build a powerful and supportive network that can lead to personal and professional success.
+
+
+Keith Ferrazzi emphasizes the use of a personal CRM (Customer Relationship Management) system to effectively manage and nurture his relationships. Here's how he utilizes a personal CRM:
+
+1. **Organizing Contacts**: Keith uses a personal CRM to keep track of his extensive network. This system helps him categorize and organize contacts based on various criteria such as industry, relationship type, and level of importance.
+
+2. **Tracking Interactions**: The CRM allows him to log and track all interactions with his contacts. This includes meetings, phone calls, emails, and social media interactions. By keeping a detailed history, he can maintain continuity in his relationships and remember key details about each contact.
+
+3. **Setting Reminders**: To ensure he follows up regularly, Keith sets reminders and alerts within his CRM. These prompts help him stay in touch with his network consistently, whether it’s for birthdays, anniversaries, or just a regular check-in.
+
+4. **Personalizing Communication**: With detailed information about his contacts stored in the CRM, Keith can personalize his communication. This helps him tailor his messages to suit the individual needs and interests of each contact, making his interactions more meaningful and effective.
+
+5. **Identifying Opportunities**: The CRM helps Keith identify opportunities for networking and collaboration. By analyzing his network and interactions, he can spot potential synergies, partnerships, and opportunities for mutual benefit.
+
+6. **Prioritizing Relationships**: Not all relationships are equal, and a CRM helps Keith prioritize his efforts. He can focus more on high-value relationships that are crucial for his personal and professional growth, while still maintaining broader connections.
+
+7. **Maintaining Consistency**: Consistency is key in relationship building. The CRM ensures that Keith maintains a regular touchpoint with his network, which is critical for sustaining long-term relationships.
+
+8. **Data-Driven Insights**: By analyzing the data within his CRM, Keith can gain insights into his networking habits and strategies. This helps him refine his approach and improve the effectiveness of his networking efforts.
+
+In summary, Keith Ferrazzi's use of a personal CRM system allows him to manage his extensive network systematically, ensuring that he maintains strong, meaningful, and mutually beneficial relationships.
+
+
+
+
+
+
+
+
+
+** Never Split the Difference (Chris Voss)
+~Should re read this before doing a negotiation~
+
+- Try and see it from the others point of view undercover the motivations
+- Get use to silence when you speak it is a powerful tool, try to cut out the umms and ars
+- Mirroring is copying the other persons behavior speech and gestures
+- Repeating or echoing the last few words
+- Paraphrase the argument to see if you understand and show that you are linstening
+- When you speek creating slence give people time to come in and reconsider even if the silence feels uncomfortable resist the urge to fill it with chatter it will be more powerful that way
+- Get the other person talking and dont think about just doing it all yourself
+- Negotiation should be done with an anchor which gives you the reference point to make the suggestiosn and then the negotiations go around that point.
+- Definately re read this before negotiating a contract with employers
+- Ackerman model to get into the haggle better, this is the way to negotiate price a better way,
+- Mirroring is a great way to keep people talking
+
+
+* Nassim taleb
+Investing in myself though courses and education about how to speak etc
+randomness is a fact of life so we should embrace this, we should gain from randomness not just die, stay around long enough to capitalize on this
+Barbell strategy, minimal risk on one side to stay alive and exposure to crazy gains
+
+
+* Naval
+
+Leverage to get true wealth
+Rich only gets from entrepreneurs and engineers
+build community and happiness is a skill that can be cultivated and there is no greater thing than that
+
+Abdaal nomad video, can skip most of them as I feel like I know most of waht is going on atm
+but he is good for finding new ideas
+
+
+* Draft Statistics
+:LOGBOOK:
+- Note taken on [2024-04-26 Fri 14:14] \\
+  Did first couple of books mainly about social media precense and personal branding in order to find like minded people and harness the internet for good
+CLOCK: [2024-04-26 Fri 12:35]--[2024-04-26 Fri 14:13] =>  1:38
+:END:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2024-04-26 Fri 13:07]
+| Headline         | Time |
+|------------------+------|
+| *Total time*       | *0:32* |
+|------------------+------|
+| Draft Statistics | 0:32 |
+#+END:

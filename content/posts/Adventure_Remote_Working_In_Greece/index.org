@@ -1,0 +1,97 @@
+#+title: Adventure Remote Working In Greece
+#+DATE: 2024-06-23
+#+DRAFT: false
+#+slug: adventure_remote_working_in_greece
+#+DESCRIPTION: What it is actually like being a digital nomad abroad
+#+TAGS[]: Travel
+#+KEYWORDS: Travel Greece
+#+IMAGES[]: /posts/adventure_remote_working_in_greece/athens.jpg
+
+- [[#Why_I_Choose_Greece_for_a_Digital_Nomad_Adventure][Why I Choose Greece for a Digital Nomad Adventure?]]
+- [[#The_Reality_of_Remote_Work_in_Greece][The Reality of Remote Work in Greece]]
+- [[#A_Day_in_the_Life][A Day in the Life]]
+- [[#Language_and_Social_Interaction:_Enriching_the_Experience][Language and Social Interaction: Enriching the Experience]]
+- [[#Reflections_and_Future_Plans][Reflections and Future Plans]]
+- [[#Embracing_the_Digital_Nomad_Lifestyle][Embracing the Digital Nomad Lifestyle]]
+
+#+HTML: <a id="Why_I_Choose_Greece_for_a_Digital_Nomad_Adventure"></a>
+* Why I Choose Greece for a Digital Nomad Adventure?
+If you've spent any time online, you've likely seen videos of people working on a laptop from a beach in Bali or a cosy cabin in the mountains of France. The digital nomad lifestyle looks like the dream life to many. But how realistic is this depiction?
+
+Three months ago, I decided to find out for myself and booked a flight to Greece. Why Greece? I wanted to learn Greek, and the best way to experience the language and culture is through full immersion. Why now? I wanted to enjoy the great weather without the extreme heat of summer and explore beautiful sites outside of peak tourist season.
+
+
+#+ATTR_HTML: :alt My photo of the Acropolis in Athens :title The Acropolis
+[[athens.jpg]]
+#+HTML: <span class="caption">◎ The Acropolis in Athens </span>
+
+
+#+HTML: <a id="The_Reality_of_Remote_Work_in_Greece"></a>
+* The Reality of Remote Work in Greece
+Don't be misled into thinking it's a perpetual holiday. Working this way comes with unique challenges, but it also offers fantastic memories. I spent a month in Athens, a month on Chios island, a week island hopping, and a week in Thessaloniki. It is said that remote work requires slow travel, and I couldn't agree more. Balancing a 9-5 job while exploring requires staying in one place for at least a month to authentically experience the area.
+
+#+ATTR_HTML: :alt My photo of the windmills in Chios island :title Windmills of Chios island
+[[chios.jpg]]
+#+HTML: <span class="caption">◎ The Windmills of Chios island </span>
+
+#+HTML: <a id="A_Day_in_the_Life"></a>
+* A Day in the Life
+My daily work routine wasn't much different from back home in the UK, apart from the two-hour time difference. Fortunately, Greeks eat and socialise later in the day, allowing me to join in the evening activities. The big perk of this flexible way of living is enjoying exciting downtime activities like dining in Athens' old town or taking a sunset sailing tour of Santorini.
+
+#+ATTR_HTML: :alt My photo of the town Chora in Tinos :title Tinos Town
+[[tinos.jpg]]
+#+HTML: <span class="caption">◎ Chora town Tinos island </span>
+
+#+HTML: <a id="Language_and_Social_Interaction:_Enriching_the_Experience"></a>
+* Language and Social Interaction: Enriching the Experience
+Greece is an excellent choice for digital nomads. It's relatively affordable, and while most people speak good English, learning some Greek is appreciated by the locals. A feeling of isolation is quite common for solo travel. Using Facebook to find local groups and events helped me meet locals, expats, and other digital nomads. Some of my best memories were random encounters with fellow young travellers.
+
+#+ATTR_HTML: :alt A statue of Alexander the Great on a horse in Thessaloniki :title Alexander the Great statue
+[[thess.jpg]]
+#+HTML: <span class="caption">◎ Alexander the Great monument in Thessaloniki </span>
+
+
+#+HTML: <a id="Reflections_and_Future_Plans"></a>
+* Reflections and Future Plans
+My month in Chios coincided with Greek Easter and the [[https://youtu.be/7SefoOTyK9s?si=ilcGM2zFJjq_uGB4][Rouketopolemos]] (rocket war), an unforgettable experience. In hindsight, I would have liked to spend more time in cities as there are more opportunities to meet people. Planning your travels and finding groups to join can be time-consuming, but spontaneous encounters and embracing the local customs and language add immense value to the trip.
+
+#+ATTR_HTML: :alt A sunset overlooking the ocean in Santorini :title Sunset in Santorini
+[[sant.jpg]]
+#+HTML: <span class="caption">◎  A Sailing Sunset of Santorini </span>
+
+#+HTML: <a id="Embracing_the_Digital_Nomad_Lifestyle"></a>
+* Embracing the Digital Nomad Lifestyle
+While the locations are beautiful, the true value lies in the people you meet and the experiences you gather. Being a digital nomad in Greece allowed me to blend work and travel uniquely, deepening my appreciation for different cultures. It's not just about picturesque work spots but embracing a lifestyle that broadens your horizons.
+
+
+
+
+
+# * Statistics (draft)
+# :LOGBOOK:
+# CLOCK: [2024-06-23 Sun 15:35]--[2024-06-23 Sun 17:03] =>  1:28
+# - Note taken on [2024-06-23 Sun 14:47] \\
+#   Working got a good draft which I am happy with. Will add photos and proof read and send
+# CLOCK: [2024-06-23 Sun 14:00]--[2024-06-23 Sun 14:47] =>  0:47
+# CLOCK: [2024-06-23 Sun 12:09]--[2024-06-23 Sun 12:30] =>  0:21
+# - Note taken on [2024-06-23 Sun 11:49] \\
+#   Just bucketing ideas and getting some ideas onto the page
+# CLOCK: [2024-06-23 Sun 11:22]--[2024-06-23 Sun 11:49] =>  0:27
+# :END:
+
+# #+BEGIN: clocktable :scope subtree :maxlevel 2
+# #+CAPTION: Clock summary at [2024-06-23 Sun 17:03]
+# | Headline           | Time |
+# |--------------------+------|
+# | *Total time*         | *3:03* |
+# |--------------------+------|
+# | Statistics (draft) | 3:03 |
+# #+END:
+
+# Need to make sure that the images are in the form of the public posts folder, before loading into linked in to get the correct org preview,
+# post on:
+# 1) linkedin
+# 2) Facebook
+# 3) Instagram Stories + send to FB
+# 4) Whattsapp (parents)
+# 5) Twitter

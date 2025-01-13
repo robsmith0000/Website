@@ -52,5 +52,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 ![The San Juan Mountains are beautiful!](/san-juan-mountains.jpg "San Juan Mountains")
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My problem with being a Digital Nomad: How to meet people?<br><br>The freedom to work anywhere is amazing but Instagram never shows you the epidemic of loneliness among solo travelers.<br><br>Here are some ways I have found to find interesting people and the future of living...<br>🧵 <a href="https://t.co/7Lv7nuo7Gx">pic.twitter.com/7Lv7nuo7Gx</a></p>&mdash; Rob J Smith (@rob_james_smith) <a href="https://twitter.com/rob_james_smith/status/1875790243858936077?ref_src=twsrc%5Etfw">January 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Copy and paste emojis for Twitter, Facebook, Slack, Instagram, Snapchat, Slack, GitHub, Instagram, WhatsApp and more. 😃💁 People • 🐻🌻 Animals • 🍔🍹 Food • 🎷⚽️ Activities • 🚘🌇 Travel • 💡🎉 Objects • 💖🔣 Symbols • 🎌🏳️‍🌈 Flags.

@@ -1,0 +1,162 @@
+---
+title: "Twitter Threads"
+Description: A collection of short writings from my twitter
+date: 2025-01-13T16:17:56+08:00
+draft: false
+anchor: true
+dropCap: false
+---
+
+
+#+HTML: <h1 id="2"><a href="#2" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"></path></svg></a>  Why I Intermittently Intermittent fast </h1>
+(Jan 13, 2025)
+
+
+#+HTML: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Best Trick to Boost Productivity<br><br>Intermittently intermittent fast<br><br>Here are my lessons I have learned about how fasting helps my productivity and focus ... 🧵 <a href="https://t.co/DDS01etmqQ">pic.twitter.com/DDS01etmqQ</a></p>&mdash; Rob J Smith (@rob_james_smith) <a href="https://twitter.com/rob_james_smith/status/1878731047921500169?ref_src=twsrc%5Etfw">January 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+The Best Trick to Boost Productivity
+
+Intermittently intermittent fast
+
+Here are my lessons I have learned about how fasting helps my productivity and focus ...
+
+-----
+
+1/ Focus Boost:
+
+Fasting sharpens my focus and motivation.
+
+The discomfort of hunger drives me to get things done.
+
+I feel productive but I am more irritable when interacting with people
+
+-----
+
+2/ Convenience:
+
+Skipping meals simplifies life.
+
+Traveling? Busy day? No problem.
+
+Not needing to worry about 3 meals a day is convenient and freeing
+
+-----
+
+3/ Snacking Solution:
+
+One meal a day (OMAD) = no snacking temptation.
+
+When you limit yourself to a single meal, decision-making becomes easier, and you naturally reduce sugar intake
+
+-----
+
+4/ When to Eat?
+
+Following @bryan_johnson
+  I experimented with meal timing:
+
+-> Eating in the evening works best for me
+
+-> Eating in the morning is better for sleep quality but didn't work for me (I didn't like falling asleep hungry)
+
+-----
+
+5/ Challenges with OMAD:
+
+Getting enough calories in one meal is tough, especially with healthy foods
+
+Lifting weights on an empty stomach is not fun especially squats
+
+-----
+
+6/ Coffee Helps:
+
+Having coffee while fasting makes it more manageable.
+
+It suppresses hunger and keeps energy up. (But don’t overdo it and destroy your sleep!)
+
+-----
+
+7/ Why I Fast:
+
+Intermittent fasting and OMAD are my go-to methods for better focus, weight control, and reducing snacking.
+
+There are also various health benefits tied to fasting. It’s not perfect, but it works for me
+
+
+
+#+HTML: <h1 id="1"><a href="#1" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"></path></svg></a> How to meet people as a Nomad </h1>
+(Jan 5, 2025)
+
+#+HTML: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My problem with being a Digital Nomad: How to meet people?<br><br>The freedom to work anywhere is amazing but Instagram never shows you the epidemic of loneliness among solo travelers.<br><br>Here are some ways I have found to find interesting people and the future of living...<br>🧵 <a href="https://t.co/7Lv7nuo7Gx">pic.twitter.com/7Lv7nuo7Gx</a></p>&mdash; Rob J Smith (@rob_james_smith) <a href="https://twitter.com/rob_james_smith/status/1875790243858936077?ref_src=twsrc%5Etfw">January 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+My problem with being a Digital Nomad: How to meet people?
+
+The freedom to work anywhere is amazing but Instagram never shows you the epidemic of loneliness among solo travelers.
+
+Here are some ways I have found to find interesting people and the future of living...
+
+
+-----
+
+1/ People >> Places
+
+You could be living in the most beautiful place in the world but if you are all alone then most people will struggle!
+
+The experience is much more determined by the type of people you meet rather than the land you stay on.
+
+So how do you find people?
+
+-----
+
+2/ Accommodation
+
+Airbnb is great but can be lonely
+Hostels are social but you either meet vagrants or vagabonds (more of the former)
+
+The best for me was finding a hotel with a great social lobby that allows for working.
+
+-----
+
+3/ Meetups
+
+Here are some sites that I used to find things going on in the local area: 
+
+. Airbnb Experiences
+
+. Meetup.com
+
+. Facebook Events
+
+. Eventbrite
+
+. Couch Surfing
+
+. Lu.ma
+
+. Running clubs
+
+. Churches
+
+. Social Dances
+
+Between these you will find events to meet like minded people
+
+-----
+
+4/ Co-living and pop-up cities
+
+To find the best quality people and experiences see if you can find co-living in the city!
+
+After staying at Network School I am very bullish on pop-up cities its co-living ++ 
+
+100+ people, aligned and working, you will meet some amazing people
+
+-----
+
+5/ It sounds crazy but I truly believe that pop-up cities will become a very large market within the remote working lifestyle!
+
+Maybe these pop-up cities will eventually become new countries!
+
+
